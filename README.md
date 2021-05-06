@@ -1,3 +1,3 @@
-# probematura
+# stundenplan
 
 David Andraschko
